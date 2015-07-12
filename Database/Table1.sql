@@ -1,5 +1,6 @@
 ﻿CREATE TABLE [dbo].[Table1]
 (
 	[Id] INT NOT NULL PRIMARY KEY,
-	[Name] VARCHAR(100) NULL
+	[Name] VARCHAR(100) NULL,
+	[Value] VARCHAR(100) NULL
 )
